@@ -1,2 +1,6 @@
 # test001_tq
-the first repository created by tq
+the first branch created by tq
+Hi Humans!
+It's a good thing to have a git project all by my own.
+I love coding, sports, dancing and so on.
+Great!
